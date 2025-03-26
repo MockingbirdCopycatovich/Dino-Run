@@ -1,5 +1,4 @@
 # Dino-Run
-# Dino Run
 
 ## Description
 Dino Run is an arcade game created using Python and the Tkinter library. The player controls a dinosaur that must avoid obstacles and score points.
