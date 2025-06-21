@@ -31,7 +31,7 @@ pip install pillow pygame
    ```
 3. Start the game:
    ```bash
-   python main.py
+   python GAME.py
    ```
 
 ## Controls
